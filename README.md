@@ -1,4 +1,4 @@
-### Hi👋, i'm Lee Jaehwan!
+### Hi, i'm Lee Jaehwan!
 
 🔭 __I’m currently working on__
  - Sungkyunkwan University undergraduate, majoring in Computer Education, since 2017
