@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=timeGradient&animation=fadeIn&text=Jaehwan　Lee&fontColor=#ffffff)
 
-<h3 align="center">📕 Currently Working 📕</h3>
+<h3 align="center">🌱 Working in 🌱</h3>
 <p align="center"> Sungkyunkwan University undergraduate, majoring in Computer Education, since 2017 </p>
 
 <br>
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="center">🌱 Connect with me 🌱</h3>
+<h3 align="center">✉️ Connect with me ✉️</h3>
 <div align="center">
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaehwan-lee-a18672203/)](https://www.linkedin.com/in/jaehwan-lee-a18672203/)
@@ -41,6 +41,7 @@
 
 <br>
  
+<h3 align="center">📕 Learning about 📕</h3>
 <div align="center">
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhlee508)](https://velog.io/@jhlee508)
