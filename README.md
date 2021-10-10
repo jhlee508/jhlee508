@@ -46,9 +46,6 @@
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhlee508)](https://velog.io/@jhlee508)
   <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlee508&layout=compact)](https://github.com/jhlee508)
-  <br>
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwlee508)](https://solved.ac/jwlee508)
 
 </div>
 
