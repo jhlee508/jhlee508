@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=0055FF&text=Jaehwan%20Lee&height=120&fontSize=70&desc=Github&descAlignY=75&descAlign=68)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=0055FF&text=Jaehwan%20Lee&height=120&fontSize=60&desc=Github&descAlignY=75&descAlign=68)
 
 <h3 align="center">🌱 Working in 🌱</h3>
 <p align="center"> Sungkyunkwan University, Computer Education, since 2017 </p>
