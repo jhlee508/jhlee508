@@ -1,9 +1,13 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=0055FF&text=Jaehwan%20Lee&height=120&fontSize=60&desc=Github&descAlignY=75&descAlign=68)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=0055FF&text=Jaehwan%20Lee&height=150&fontSize=60&desc=Github&descAlignY=75&descAlign=68)
 
-<h3 align="center">🌱 Working in 🌱</h3>
+
+![subtitle](https://capsule-render.vercel.app/api?type=transparent&fontColor=0055FF&text=Education&height=25&fontSize=25)
+
 <p align="center"> Sungkyunkwan University, Computer Education, since 2017 </p>
 
-<h3 align="center" style="color:#0055FF">✉️ Connect with me ✉️</h3>
+<br>
+
+![subtitle](https://capsule-render.vercel.app/api?type=transparent&fontColor=0055FF&text=Contact&height=25&fontSize=25)
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrisjae508@gmail.com)](mailto:chrisjae508@gmail.com) 
